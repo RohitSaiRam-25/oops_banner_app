@@ -1,3 +1,4 @@
+package lvl1;
 import  java.util.Scanner;
 public class level_1 {
     public static void main(String args[]){
